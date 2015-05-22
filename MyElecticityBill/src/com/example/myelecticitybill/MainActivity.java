@@ -11,5 +11,6 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		System.out.println("This is the my first git project");
 		System.out.println("This change made in another place and commit");
+		System.out.println("Change made on Friday 22 May");
 	}
 }
